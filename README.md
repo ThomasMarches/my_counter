@@ -8,4 +8,4 @@ Folder lines, code lines, comment lines, file number, coding file number and emp
 
 ## Output
 #
-![Output](Output.png)
+![Output](output.png)
