@@ -5,7 +5,3 @@ Folder lines, code lines, comment lines, file number, coding file number and emp
 #
     cargo run -h/--help to show help tab
     cargo run folder_name to show every informations about a specific folder
-
-## Output
-#
-![Output](output.png)
